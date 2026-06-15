@@ -1,0 +1,12 @@
+src/taskmanager/view/TarefaDialog.java
+src/taskmanager/view/ListaPanel.java
+src/taskmanager/view/DashboardPanel.java
+src/taskmanager/view/MetaDialog.java
+src/taskmanager/view/MainWindow.java
+src/taskmanager/util/ArquivoUtil.java
+src/taskmanager/model/Prioridade.java
+src/taskmanager/model/Item.java
+src/taskmanager/model/Tarefa.java
+src/taskmanager/model/Meta.java
+src/taskmanager/controller/TaskController.java
+src/taskmanager/Main.java
